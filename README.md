@@ -1,3 +1,6 @@
+[![CI](https://github.com/Shakour-Data/02-service-discovery/actions/workflows/ci.yml/badge.svg)](https://github.com/Shakour-Data/02-service-discovery/actions/workflows/ci.yml)
+[![CD](https://github.com/Shakour-Data/02-service-discovery/actions/workflows/cd.yml/badge.svg)](https://github.com/Shakour-Data/02-service-discovery/actions/workflows/cd.yml)
+
 <!--
 ================================================================================
 FILE IDENTITY (شناسنامه فایل)
@@ -538,3 +541,4 @@ LOG_LEVEL=INFO
 
 **Cost:** $2,250 (15 hours estimated)  
 **Status:** Phase 1 & 2 in progress
+
